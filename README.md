@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliac765
 - 👀 I’m interested in obtaining a job in data analytics 
-- 🌱 I’m currently learning HTML, relearning bits of Python
+- 🌱 I’m currently learning HTML, advancing my knowledge of Python, and working in JavaScript.
 - 📫 How to reach me juliac765@gmail.com
 
 <!---
