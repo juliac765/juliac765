@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @juliac765
-- 👀 I’m interested in obtaining a position in financial modelling
-- 🌱 I have experience in HTML, advancing my knowledge of Python for modelling, and working in JavaScript occasionally.
+- 👋 Hi, I’m Julia Coggins
+- 👀 I’m interested in researching mortgage-backed securities and other fixed-income instruments. 
+- 🌱 I have experience webscraping HTML, advancing my knowledge of Python for modelling, and working in JavaScript occasionally.
 - 📫 How to reach me juliac765@gmail.com
 
 <!---
